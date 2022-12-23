@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>10.png</file>
+    <file>8.png</file>
+    <file>7.png</file>
+    <file>6.png</file>
+    <file>5.png</file>
+    <file>Без имени-1.png</file>
+    <file>2.jpg</file>
+    <file>algebr.jpg</file>
+    <file>algebra.png</file>
+    <file>Osennyaya-tekstura.jpg</file>
+    <file>111.png</file>
+  </qresource>
+</RCC>
